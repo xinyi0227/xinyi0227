@@ -33,7 +33,7 @@
  
  
 <br />
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" />
+<img align="right" height="370px" width="450px" alt="GIF" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" />
 <p align="center">
   <h3> I'm currently studying Diploma in Information Technology in Multimedia University, Malacca.</h3>
 </p>
