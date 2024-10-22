@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<h3><img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" width="30"> 🙎 Lim Xin Yi | 💻 Software Engineer | 🛸 Malaysia <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif)" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Lim Xin Yi | 💻 Software Engineer | 🛸 Malaysia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
