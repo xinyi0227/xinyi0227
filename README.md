@@ -25,18 +25,21 @@
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
  </p>
  
- <h5 align="center">
+<h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
+</h5>
 
-  <h2 align="center">
-    <b>👀 Profile Views</b><br/>
-    <img src="https://profile-counter.glitch.me/xinyi0227/count.svg"/>
+<br />
+<h2 align="center">
+   <b>👀 Profile Views</b><br/>
+   <img src="https://profile-counter.glitch.me/xinyi0227/count.svg"/>
 </h2>
  
  
 <br />
 <img align="right" height="370px" width="450px" alt="GIF" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" />
+## 💫 About Me
+<br/>
 <p align="center">
   <h3> I'm currently studying Diploma in Information Technology in Multimedia University, Malacca.</h3>
 </p>
@@ -52,8 +55,6 @@
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://x.com/xinyi_0227)
 
 <br />
  
@@ -83,7 +84,7 @@ Blockchain technology intrigues me with its promise of decentralized solutions a
 
 <br />
 
-### - Languages 
+### 🔥Languages 
 
 <p align="center">
    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -96,7 +97,7 @@ Blockchain technology intrigues me with its promise of decentralized solutions a
 
 <br />
 
-### - Framework
+### 🐾Framework
 <p align="center">
    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
    <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -104,8 +105,6 @@ Blockchain technology intrigues me with its promise of decentralized solutions a
    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=xinyi0227&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 ### - Blogs 🌱
