@@ -57,12 +57,8 @@
 
 <br />
  
- <p align="center">
-  <h4> My States </h4>
-   </p>
-
-<!--  -->
-
+## 📊 GitHub Stats:
+<br/>
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=xinyi0227&&show_icons=true&theme=radical"/>
