@@ -54,9 +54,11 @@
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://x.com/xinyi_0227)
+
+<br />
  
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> My States </h4>
    </p>
 
 <!--  -->
