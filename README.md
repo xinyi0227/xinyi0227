@@ -24,7 +24,6 @@
 <p align="center">
    <a href="https://x.com/xinyi_0227"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_xinyi0227"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=xinyi0227"> <img alt="xin yi github" src="https://visitor-badge.glitch.me/badge?page_id=xinyi0227"> </a>
  </p>
  
  <h5 align="center">
