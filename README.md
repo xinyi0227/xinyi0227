@@ -91,6 +91,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=xinyi0227&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 ### - Blogs 🌱
 -->
