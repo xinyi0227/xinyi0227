@@ -30,6 +30,11 @@
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
+
+  <h2 align="center">
+    <b>👀 Profile Views</b><br/>
+    <img src="https://profile-counter.glitch.me/Laikaiyong/count.svg"/>
+</h2>
  
  
 <br />
