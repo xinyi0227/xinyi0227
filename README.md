@@ -36,7 +36,6 @@
 <br />
 
 ## 💫 About Me:
-## 📊 GitHub Stats:
 <br/>
 <p align="center">
   <h3> I'm currently studying Diploma in Information Technology in Multimedia University, Malacca.</h3>
