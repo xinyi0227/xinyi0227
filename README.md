@@ -34,7 +34,9 @@
  
 <img align="right" height="370px" width="450px" alt="GIF" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" />
 <br />
-## 💫 About Me
+
+## 💫 About Me:
+## 📊 GitHub Stats:
 <br/>
 <p align="center">
   <h3> I'm currently studying Diploma in Information Technology in Multimedia University, Malacca.</h3>
