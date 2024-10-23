@@ -32,9 +32,8 @@
    <img src="https://profile-counter.glitch.me/xinyi0227/count.svg"/>
 </h2>
  
- 
-<br />
 <img align="right" height="370px" width="450px" alt="GIF" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" />
+<br />
 ## 💫 About Me
 <br/>
 <p align="center">
