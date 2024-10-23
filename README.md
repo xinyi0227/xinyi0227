@@ -70,6 +70,21 @@
 
 <br />
 
+## 💻My Interests
+<b>Programming</b><br/>
+I'm constantly exploring new programming languages and technologies to expand my skill set. Whether it's building web applications, mobile apps, or experimenting with new frameworks, I enjoy every bit of the journey.
+
+<b>App Development</b><br/>
+Creating user-friendly and efficient applications is my forte. I'm always on the lookout for innovative solutions to everyday problems.
+
+<b>Machine Learning</b><br/>
+I'm fascinated by the potential of machine learning and its applications in various fields. I'm keen on learning and implementing algorithms that can make systems smarter and more efficient.
+
+<b>Blockchain Development</b><br/>
+Blockchain technology intrigues me with its promise of decentralized solutions and enhanced security. I'm eager to explore its applications and contribute to projects that leverage blockchain.
+
+<br />
+
 ### - Languages 
 
 <p align="center">
