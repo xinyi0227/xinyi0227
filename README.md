@@ -51,7 +51,7 @@
  
  - 🎵 Accompanied by soft music
  
- - All About living life at its best.
+ - 🪄 All about living life at its best
 
 <br />
  
