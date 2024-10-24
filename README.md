@@ -45,11 +45,11 @@
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 😼 Cat Lover
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - ✨ Enjoy coding and thinking late at night
  
- - I do fullstack and a bit of everything :heart:
+ - 🎵 Accompanied by soft music
  
  - All About living life at its best.
 
